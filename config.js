@@ -62,7 +62,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝓚𝓓_𝓑𝓡𝓞-𝐌𝐃-𝐕2😍",
+  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝓚𝓓_𝓑𝓡𝓞-𝐕2😍",
   author: process.env.PACK_AUTHER || "WASO",
   packname: process.env.PACK_NAME || "𝓚𝓓_𝓑𝓡𝓞",
   botname: process.env.BOT_NAME || "𝓚𝓓_𝓑𝓡𝓞-𝐌𝐃-𝐕2",
